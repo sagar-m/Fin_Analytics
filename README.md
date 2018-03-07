@@ -1,2 +1,2 @@
 # Fin_Analytics
-Portfolio Optimization
+Portfolio Optimization, monte-carlo simulation
